@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TASBoardConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "-s C:\\libTAS\\kp_inputs.ltm -d C:\\libTAS\\kp_inputs_keys1.mp4\r\n"
+    }
+  }
+}
